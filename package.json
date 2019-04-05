@@ -4,7 +4,8 @@
   "description": "00F",
   "main": "hammy.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hammy.js"
   },
   "author": "!Mr.AbrahaMatheus#4912",
   "license": "ISC",
