@@ -1,0 +1,23 @@
+{
+  "name": "hammy",
+  "version": "0.0.1",
+  "description": "00F",
+  "main": "hammy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "!Mr.AbrahaMatheus#4912",
+  "license": "ISC",
+  "dependencies": {
+    "chrono-node": "^1.3.11",
+    "discord.js": "^11.3.0",
+    "isgd": "^1.1.3",
+    "moment": "^2.24.0",
+    "ms": "^2.1.1",
+    "request-promise-native": "^1.0.7",
+    "snekfetch": "^4.0.4",
+    "string-similarity": "^1.2.0",
+    "superagent": "^3.8.3",
+    "urban": "^0.3.2"
+  }
+}
