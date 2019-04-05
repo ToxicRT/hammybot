@@ -1512,5 +1512,4 @@ function clean(text) {
         return text;
 }
 
-
-client.login('NTE3NDI5NjQ4NDk4NDkxMzkz.D26-IQ.O3TB_LAo7r2pzyPy0fX9jd7Frbo');
+client.login(process.env.BOT_TOKEN);
